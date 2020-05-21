@@ -1,2 +1,2 @@
 # CS50
-HarwardX CS50 Introductory course
+My work on the problems given in the HarvardX CS50 Introduction to CS
